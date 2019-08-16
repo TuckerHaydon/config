@@ -1,3 +1,4 @@
 *.swp
 vim/vim/autoload
 vim/vim/bundle
+zsh/zshrc
